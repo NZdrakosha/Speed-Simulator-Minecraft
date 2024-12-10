@@ -1,0 +1,4 @@
+name: SpeedSimulator
+version: '${version}'
+main: me.drakosha.speed.SpeedSimulator
+authors: [Iamdany00]
